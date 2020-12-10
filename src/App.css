@@ -36,3 +36,104 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+/* Assignment 08
+
+* {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: rgba(233, 196, 188, 0.3);
+}
+
+div {
+  width: 100%;
+}
+
+
+h1,
+p,
+button,
+label {
+  font-family: fantasy;
+  color: #795330;
+}
+
+#title,
+#addNewToDo {
+  width: 50%;
+}
+
+input {
+  border:1px solid #c78f5a; 
+  border-radius:3px;
+  padding:8px 24px;
+  margin-right: 10px;
+  color: #795330;
+  font-family: fantasy;
+}
+
+input:hover,
+input:focus {
+  background-color: bisque;
+  text-align: left;
+}
+
+
+
+.item {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.checkbox {
+  position: absolute;
+  left: 30px;
+  top: 20px;
+}
+
+label {
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 24px;
+  
+}
+
+button {
+  background-color:#b39579;
+  border:1px solid #c78f5a;
+  color:#ffffff;
+  border-radius:3px;
+  padding:6px 24px;
+display:inline-block;
+}
+
+#toDos button {
+  position: absolute;
+  right: 30px
+}
+
+button:hover {
+background-color:#947049;
+}
+
+button:active {
+  position: relative;
+  top: 1px;
+}
+
+#toDos button:active {
+  background-color: #54381e;
+  position: absolute;
+  right: 30px;
+  top: 16px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+*/
